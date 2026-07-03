@@ -1,0 +1,19 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Chroma vector database
+chroma_db/
+
+# Large PDF (not needed because constitution.txt is used)
+constituition.pdf/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
